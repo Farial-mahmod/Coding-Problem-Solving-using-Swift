@@ -24,7 +24,12 @@ class Solution {
 }
 
 /* 
-Testcase below:
+Testcases below:
+
+Input: s = "Quranhasmessages", words = ["Quran","has","messages","mysterious"]
+Output: true
+Explanation: s can be made by concatenating "Quran", "has", and "messages" together.
+
 Input: s = "iloveleetcode", words = ["i","love","leetcode","apples"]
 Output: true
 */
