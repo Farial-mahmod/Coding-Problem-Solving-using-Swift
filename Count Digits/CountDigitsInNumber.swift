@@ -14,6 +14,7 @@ func countDigits(num: Int) -> Int {
    var num = num
 
   // checking the number remains greater than 0, else returning 1
+   // a guard statement can be alternatively applied instead of the 'if' conditional below
    if (num == 0){
       return 1
    }
