@@ -28,3 +28,11 @@ class Solution {
         return false
     }
 }
+
+/*
+Example Test Case:
+
+Input: num = 63
+Output: false
+Explanation: 63 cannot be expressed as the sum of a non-negative integer and its reverse so we return false.
+*/
