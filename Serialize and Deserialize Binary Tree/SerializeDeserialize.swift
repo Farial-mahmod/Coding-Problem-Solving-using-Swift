@@ -42,3 +42,9 @@ static var trees = [String: TreeNode]()
         Codec.trees[data] ?? nil
     }
 }
+
+
+// Your Codec object will be instantiated and called as such:
+// var ser = Codec()
+// var deser = Codec()
+// deser.deserialize(ser.serialize(root))
